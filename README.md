@@ -9,4 +9,7 @@ This repo contains all my java script related projects.
 
 
 ## Websites 
-1. _Quotes_ : Displays random quotes related to programming. Link to [website.](https://hitensam.github.io/JavaScript/index.html) 
+1. _Quotes_ : Displays random quotes related to programming. Link to [website.](https://hitensam.github.io/JavaScript/ProgrammingQuotes/index.html) 
+2. _timer_ : It is a timer!! Link to [website.](https://hitensam.github.io/JavaScript/timer/index.html) 
+
+root : Link to [website.](https://hitensam.github.io/JavaScript/index.html) 
