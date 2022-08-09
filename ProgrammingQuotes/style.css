@@ -1,13 +1,11 @@
 *
 {
     font-family: 'Noto Sans', sans-serif;
-    /* background-color: black; */
 }
 h1
 {
     color: white;
     text-align: center;
-    size: 30px;
 }
 #p, #h1
 {
