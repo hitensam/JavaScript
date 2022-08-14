@@ -1,7 +1,7 @@
 var res,child,remove;
 MovieSearch = async (TitleSearch) =>
 {
-    const getData = await axios.get('http://www.omdbapi.com/', {
+    const getData = await axios.get('https://www.omdbapi.com/', {
         params : 
         {
             apiKey : '1d56cf35',
@@ -121,7 +121,7 @@ document.addEventListener('click', (event) =>
 const getAdditional = async function (extractInfo)
 {
     // console.log(extractInfo)
-    var ImdbIDSearch = await axios.get('http://www.omdbapi.com', {
+    var ImdbIDSearch = await axios.get('https://www.omdbapi.com', {
         params :
         {
             apiKey : '1d56cf35',
