@@ -6,9 +6,7 @@ It would be nice if someone can maintain it.
 
 It's also available as a chrome extension!
 
-_Timer_ 
-
-To install and read more about this visit   [this link.](https://chrome.google.com/webstore/detail/timer/oacohgiedfmeeefjklfbngcifkmafmno)
+_Timer_  : To install and read more about this visit   [this link.](https://chrome.google.com/webstore/detail/timer/oacohgiedfmeeefjklfbngcifkmafmno)
 
 [Link to the site.](https://hitensam.github.io/JavaScript/timer/index.html) 
 * [index.html code](/timer/index.html)
