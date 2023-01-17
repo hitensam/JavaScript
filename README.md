@@ -1,6 +1,6 @@
 # Info 
 
-This repo contains all my java script related projects.
+This repo contains all my JavaScript related projects.
 
 
 ## Extensions
